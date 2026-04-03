@@ -40,6 +40,8 @@ The dataset contains:
 - Green → Drivable terrain
 - Red → Obstacles
 - Blue → Hazard (water)
+  
+<img width="2048" height="853" alt="35504162-9583-4549-8941-15392f70a921" src="https://github.com/user-attachments/assets/26ca41a5-873c-4b0d-b05b-e86c952a3f04" />
 
 ## Installation
 
